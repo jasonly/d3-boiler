@@ -1,0 +1,8 @@
+.entry div {
+  font: 10px sans-serif;
+  background-color: coral;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
